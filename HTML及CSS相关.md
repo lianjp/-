@@ -133,4 +133,4 @@
 
 ##### 12.伪元素和伪类的区别？+
 
-![区别](.\伪类及伪元素的区别.jpg)
+![区别](https://github.com/lianjp/-/blob/master/%E4%BC%AA%E7%B1%BB%E5%8F%8A%E4%BC%AA%E5%85%83%E7%B4%A0%E7%9A%84%E5%8C%BA%E5%88%AB.jpg)
